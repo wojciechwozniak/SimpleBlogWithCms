@@ -1,0 +1,4 @@
+fos_user:
+  from_email:
+    address: "symphart@dev.com"
+    sender_name: "symphart"
