@@ -46,6 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="env" value="31" />
+          <entry key="gitignore" value="13" />
           <entry key="htaccess" value="183" />
           <entry key="js" value="360" />
           <entry key="php" value="2483" />
@@ -58,6 +59,7 @@
           <entry key=".env file" value="31" />
           <entry key="JavaScript" value="360" />
           <entry key="PHP" value="2483" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="Twig" value="1178" />
           <entry key="YAML" value="7" />
           <entry key="htaccess" value="183" />
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+            <state relative-caret-position="837">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -342,12 +344,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533486410449</updated>
       <workItem from="1533486412378" duration="7268000" />
-      <workItem from="1534783343281" duration="188000" />
+      <workItem from="1534783343281" duration="329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7456000" />
+    <option name="totallyTimeSpent" value="7597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
@@ -471,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        <state relative-caret-position="837">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
         </state>
       </provider>
     </entry>
